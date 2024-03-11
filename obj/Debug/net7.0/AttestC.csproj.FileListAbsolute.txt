@@ -1,0 +1,14 @@
+C:\Users\NIN\Desktop\AttestC\bin\Debug\net7.0\AttestC.exe
+C:\Users\NIN\Desktop\AttestC\bin\Debug\net7.0\AttestC.deps.json
+C:\Users\NIN\Desktop\AttestC\bin\Debug\net7.0\AttestC.runtimeconfig.json
+C:\Users\NIN\Desktop\AttestC\bin\Debug\net7.0\AttestC.dll
+C:\Users\NIN\Desktop\AttestC\bin\Debug\net7.0\AttestC.pdb
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.AssemblyInfo.cs
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.dll
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\refint\AttestC.dll
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.pdb
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\AttestC.genruntimeconfig.cache
+C:\Users\NIN\Desktop\AttestC\obj\Debug\net7.0\ref\AttestC.dll
